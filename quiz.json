@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of mobile phone accessories.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What protects the screen?",
+      "answers": ["Case", "Cover", "Shield"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Which accessory boosts sound?",
+      "answers": ["Speaker", "Case", "Charger"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Which accessory charges wirelessly?",
+      "answers": ["Pad", "Cable", "Plug"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What holds your phone in the car?",
+      "answers": ["Mount", "Case", "Stand"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What keeps the phone secure on your arm?",
+      "answers": ["Band", "Clip", "Case"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which accessory extends battery life?",
+      "answers": ["Bank", "Plug", "Cable"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What helps to find your phone?",
+      "answers": ["Tag", "Stand", "Case"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which accessory improves selfies?",
+      "answers": ["Stick", "Mount", "Case"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What adds extra storage?",
+      "answers": ["Card", "Plug", "Band"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What protects against water?",
+      "answers": ["Case", "Cover", "Shield"],
       "correctAnswerIndex": 0
     }
   ]
